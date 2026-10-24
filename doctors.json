@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Maya Chen",
+    "email": "doctor01@example.com",
+    "card": "ACU-DEMO-001",
+    "specialty": "Discomfort & movement",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "MC",
+    "sample": true
+  },
+  {
+    "id": 2,
+    "name": "Dr. Arun Patel",
+    "email": "doctor02@example.com",
+    "card": "ACU-DEMO-002",
+    "specialty": "Stress & rest",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "AP",
+    "sample": true
+  },
+  {
+    "id": 3,
+    "name": "Dr. Sofia Rivera",
+    "email": "doctor03@example.com",
+    "card": "ACU-DEMO-003",
+    "specialty": "Whole-person acupuncture",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "SR",
+    "sample": true
+  },
+  {
+    "id": 4,
+    "name": "Dr. Daniel Kim",
+    "email": "doctor04@example.com",
+    "card": "ACU-DEMO-004",
+    "specialty": "Follow-up care",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "DK",
+    "sample": true
+  },
+  {
+    "id": 5,
+    "name": "Dr. Leila Hassan",
+    "email": "doctor05@example.com",
+    "card": "ACU-DEMO-005",
+    "specialty": "General consultation",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "LH",
+    "sample": true
+  },
+  {
+    "id": 6,
+    "name": "Dr. Oliver Brooks",
+    "email": "doctor06@example.com",
+    "card": "ACU-DEMO-006",
+    "specialty": "Discomfort & movement",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "OB",
+    "sample": true
+  },
+  {
+    "id": 7,
+    "name": "Dr. Priya Nair",
+    "email": "doctor07@example.com",
+    "card": "ACU-DEMO-007",
+    "specialty": "Stress & rest",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "PN",
+    "sample": true
+  },
+  {
+    "id": 8,
+    "name": "Dr. Ethan Wu",
+    "email": "doctor08@example.com",
+    "card": "ACU-DEMO-008",
+    "specialty": "Whole-person acupuncture",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "EW",
+    "sample": true
+  },
+  {
+    "id": 9,
+    "name": "Dr. Amara Okafor",
+    "email": "doctor09@example.com",
+    "card": "ACU-DEMO-009",
+    "specialty": "Follow-up care",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "AO",
+    "sample": true
+  },
+  {
+    "id": 10,
+    "name": "Dr. Lucas Martin",
+    "email": "doctor10@example.com",
+    "card": "ACU-DEMO-010",
+    "specialty": "General consultation",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "LM",
+    "sample": true
+  },
+  {
+    "id": 11,
+    "name": "Dr. Hana Park",
+    "email": "doctor11@example.com",
+    "card": "ACU-DEMO-011",
+    "specialty": "Discomfort & movement",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "HP",
+    "sample": true
+  },
+  {
+    "id": 12,
+    "name": "Dr. Noah Bennett",
+    "email": "doctor12@example.com",
+    "card": "ACU-DEMO-012",
+    "specialty": "Stress & rest",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "NB",
+    "sample": true
+  },
+  {
+    "id": 13,
+    "name": "Dr. Isabel Silva",
+    "email": "doctor13@example.com",
+    "card": "ACU-DEMO-013",
+    "specialty": "Whole-person acupuncture",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "IS",
+    "sample": true
+  },
+  {
+    "id": 14,
+    "name": "Dr. Ravi Mehta",
+    "email": "doctor14@example.com",
+    "card": "ACU-DEMO-014",
+    "specialty": "Follow-up care",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "RM",
+    "sample": true
+  },
+  {
+    "id": 15,
+    "name": "Dr. Aisha Rahman",
+    "email": "doctor15@example.com",
+    "card": "ACU-DEMO-015",
+    "specialty": "General consultation",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "AR",
+    "sample": true
+  },
+  {
+    "id": 16,
+    "name": "Dr. Leo Tan",
+    "email": "doctor16@example.com",
+    "card": "ACU-DEMO-016",
+    "specialty": "Discomfort & movement",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "LT",
+    "sample": true
+  },
+  {
+    "id": 17,
+    "name": "Dr. Nina Kapoor",
+    "email": "doctor17@example.com",
+    "card": "ACU-DEMO-017",
+    "specialty": "Stress & rest",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "NK",
+    "sample": true
+  },
+  {
+    "id": 18,
+    "name": "Dr. Adam Clarke",
+    "email": "doctor18@example.com",
+    "card": "ACU-DEMO-018",
+    "specialty": "Whole-person acupuncture",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "AC",
+    "sample": true
+  },
+  {
+    "id": 19,
+    "name": "Dr. Yuki Sato",
+    "email": "doctor19@example.com",
+    "card": "ACU-DEMO-019",
+    "specialty": "Follow-up care",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "YS",
+    "sample": true
+  },
+  {
+    "id": 20,
+    "name": "Dr. Grace Williams",
+    "email": "doctor20@example.com",
+    "card": "ACU-DEMO-020",
+    "specialty": "General consultation",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "GW",
+    "sample": true
+  },
+  {
+    "id": 21,
+    "name": "Dr. Samir Khan",
+    "email": "doctor21@example.com",
+    "card": "ACU-DEMO-021",
+    "specialty": "Discomfort & movement",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "SK",
+    "sample": true
+  },
+  {
+    "id": 22,
+    "name": "Dr. Chloe Laurent",
+    "email": "doctor22@example.com",
+    "card": "ACU-DEMO-022",
+    "specialty": "Stress & rest",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "CL",
+    "sample": true
+  },
+  {
+    "id": 23,
+    "name": "Dr. Marcus Reed",
+    "email": "doctor23@example.com",
+    "card": "ACU-DEMO-023",
+    "specialty": "Whole-person acupuncture",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "MR",
+    "sample": true
+  },
+  {
+    "id": 24,
+    "name": "Dr. Anika Shah",
+    "email": "doctor24@example.com",
+    "card": "ACU-DEMO-024",
+    "specialty": "Follow-up care",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "AS",
+    "sample": true
+  },
+  {
+    "id": 25,
+    "name": "Dr. Elena Rossi",
+    "email": "doctor25@example.com",
+    "card": "ACU-DEMO-025",
+    "specialty": "General consultation",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "ER",
+    "sample": true
+  },
+  {
+    "id": 26,
+    "name": "Dr. Owen Miller",
+    "email": "doctor26@example.com",
+    "card": "ACU-DEMO-026",
+    "specialty": "Discomfort & movement",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "OM",
+    "sample": true
+  },
+  {
+    "id": 27,
+    "name": "Dr. Sara Ali",
+    "email": "doctor27@example.com",
+    "card": "ACU-DEMO-027",
+    "specialty": "Stress & rest",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "SA",
+    "sample": true
+  },
+  {
+    "id": 28,
+    "name": "Dr. Felix Weber",
+    "email": "doctor28@example.com",
+    "card": "ACU-DEMO-028",
+    "specialty": "Whole-person acupuncture",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "FW",
+    "sample": true
+  },
+  {
+    "id": 29,
+    "name": "Dr. Mei Lin",
+    "email": "doctor29@example.com",
+    "card": "ACU-DEMO-029",
+    "specialty": "Follow-up care",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "ML",
+    "sample": true
+  },
+  {
+    "id": 30,
+    "name": "Dr. David Costa",
+    "email": "doctor30@example.com",
+    "card": "ACU-DEMO-030",
+    "specialty": "General consultation",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "DC",
+    "sample": true
+  },
+  {
+    "id": 31,
+    "name": "Dr. Zara Ahmed",
+    "email": "doctor31@example.com",
+    "card": "ACU-DEMO-031",
+    "specialty": "Discomfort & movement",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "ZA",
+    "sample": true
+  },
+  {
+    "id": 32,
+    "name": "Dr. Liam Wilson",
+    "email": "doctor32@example.com",
+    "card": "ACU-DEMO-032",
+    "specialty": "Stress & rest",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "LW",
+    "sample": true
+  },
+  {
+    "id": 33,
+    "name": "Dr. Rina Das",
+    "email": "doctor33@example.com",
+    "card": "ACU-DEMO-033",
+    "specialty": "Whole-person acupuncture",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "RD",
+    "sample": true
+  },
+  {
+    "id": 34,
+    "name": "Dr. Alex Morgan",
+    "email": "doctor34@example.com",
+    "card": "ACU-DEMO-034",
+    "specialty": "Follow-up care",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "AM",
+    "sample": true
+  },
+  {
+    "id": 35,
+    "name": "Dr. Tara Singh",
+    "email": "doctor35@example.com",
+    "card": "ACU-DEMO-035",
+    "specialty": "General consultation",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "TS",
+    "sample": true
+  },
+  {
+    "id": 36,
+    "name": "Dr. Ben Carter",
+    "email": "doctor36@example.com",
+    "card": "ACU-DEMO-036",
+    "specialty": "Discomfort & movement",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "BC",
+    "sample": true
+  },
+  {
+    "id": 37,
+    "name": "Dr. Noor Ibrahim",
+    "email": "doctor37@example.com",
+    "card": "ACU-DEMO-037",
+    "specialty": "Stress & rest",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "NI",
+    "sample": true
+  },
+  {
+    "id": 38,
+    "name": "Dr. Emma Lewis",
+    "email": "doctor38@example.com",
+    "card": "ACU-DEMO-038",
+    "specialty": "Whole-person acupuncture",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "EL",
+    "sample": true
+  },
+  {
+    "id": 39,
+    "name": "Dr. Kai Nakamura",
+    "email": "doctor39@example.com",
+    "card": "ACU-DEMO-039",
+    "specialty": "Follow-up care",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "KN",
+    "sample": true
+  },
+  {
+    "id": 40,
+    "name": "Dr. Lina Farah",
+    "email": "doctor40@example.com",
+    "card": "ACU-DEMO-040",
+    "specialty": "General consultation",
+    "bio": "Fictional sample practitioner. This is not a real provider profile.",
+    "initials": "LF",
+    "sample": true
+  }
+]

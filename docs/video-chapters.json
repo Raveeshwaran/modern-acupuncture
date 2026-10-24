@@ -1,0 +1,137 @@
+[
+  {
+    "seconds": 0.0,
+    "title": "ACUPUNCTURE \u00b7 CONNECTED CARE",
+    "text": "A practical walkthrough of the actual website. Use fictional sample details only. This video has on-screen instructions and no audio."
+  },
+  {
+    "seconds": 5.0,
+    "title": "01 / CREATE A PATIENT ACCOUNT",
+    "text": "Choose Patient \u2192 Create a patient account. Use your name, email and a password of at least 12 characters."
+  },
+  {
+    "seconds": 9.2,
+    "title": "01 / CREATE A PATIENT ACCOUNT",
+    "text": "Acknowledge the sample-data notice, then create your account. No gender selection is required."
+  },
+  {
+    "seconds": 12.3,
+    "title": "02 / YOUR ASSIGNED PRACTITIONER",
+    "text": "A sample doctor is assigned automatically. Jamie is assigned to Dr. Arun Patel, doctor02@example.com, ID ACU-DEMO-002."
+  },
+  {
+    "seconds": 18.3,
+    "title": "03 / EXPLORE 40 SAMPLE DOCTORS",
+    "text": "The directory contains 40 fictional practitioners. Search by name, practice area or ID. These are not real provider listings."
+  },
+  {
+    "seconds": 22.4,
+    "title": "03 / FIND YOUR DOCTOR",
+    "text": "The assigned doctor is marked in the directory. ID and email identify the account, but a password and clinic approval are also required."
+  },
+  {
+    "seconds": 26.5,
+    "title": "04 / YOUR INTAKE \u2014 GENDER IS OPTIONAL",
+    "text": "The original 107 intake questions are retained across seven sections. Leave Gender at \u201cPrefer not to answer\u201d if you wish."
+  },
+  {
+    "seconds": 31.5,
+    "title": "04 / OPTIONAL SENSITIVE QUESTIONS",
+    "text": "Reproductive-health questions are hidden until you choose to answer them. You can skip this section regardless of gender."
+  },
+  {
+    "seconds": 36.6,
+    "title": "04 / DESCRIBE YOUR EXPERIENCE",
+    "text": "The front/back pain map supports clicking or keyboard coordinates. This records symptoms; it does not suggest acupuncture points."
+  },
+  {
+    "seconds": 41.7,
+    "title": "04 / SAVE OR SUBMIT",
+    "text": "Use Save draft to return later, or acknowledge and Submit intake. Saved information remains available after you sign out."
+  },
+  {
+    "seconds": 45.8,
+    "title": "05 / REQUEST AN APPOINTMENT",
+    "text": "Select a future date and time in clinic local time. A request is not a confirmed appointment, and no email is sent."
+  },
+  {
+    "seconds": 49.8,
+    "title": "05 / YOUR REQUEST IS SAVED",
+    "text": "Your assigned practitioner can confirm the request in their workspace. Duplicate time requests for the same doctor are rejected."
+  },
+  {
+    "seconds": 54.0,
+    "title": "06 / KEEP QUESTIONS TOGETHER",
+    "text": "Use Doctor suggestions for follow-up messages. Messages are saved, but are not monitored for emergencies and send no notification."
+  },
+  {
+    "seconds": 59.0,
+    "title": "07 / YOUR UPLOADED MERIDIAN IMAGE",
+    "text": "Your original reference image is included, alongside searchable meridian names, abbreviations, colors and point counts."
+  },
+  {
+    "seconds": 64.0,
+    "title": "07 / A REFERENCE, NOT A TREATMENT GUIDE",
+    "text": "Search by name or code. This library is educational only, not a diagnosis or self-needling instruction."
+  },
+  {
+    "seconds": 68.4,
+    "title": "08 / DOCTOR SIGN-IN",
+    "text": "For Jamie\u2019s assigned sample doctor: doctor02@example.com \u00b7 ACU-DEMO-002 \u00b7 DemoCare!2026. Real applicants must first be verified by the clinic."
+  },
+  {
+    "seconds": 74.5,
+    "title": "08 / A FOCUSED PRACTITIONER WORKSPACE",
+    "text": "Doctors can access only patients assigned to them. Review intake, manage appointment requests and publish consultation records."
+  },
+  {
+    "seconds": 79.5,
+    "title": "09 / REVIEW THE PATIENT\u2019S STORY",
+    "text": "Choose an assigned patient. Their saved intake and past consultation records are shown alongside the new care-record form."
+  },
+  {
+    "seconds": 83.7,
+    "title": "09 / RECORD CLEAR, SEPARATE VISITS",
+    "text": "Enter assessment, doctor suggestions, optional prescription, treatment and follow-up. Optional meridian labels link to the reference image."
+  },
+  {
+    "seconds": 88.8,
+    "title": "09 / PUBLISH TO THE PATIENT\u2019S HISTORY",
+    "text": "A published visit becomes visible to the patient. Records are append-only: add a clearly labelled correction rather than overwriting history."
+  },
+  {
+    "seconds": 93.9,
+    "title": "10 / CONFIRM THE VISIT",
+    "text": "The assigned practitioner confirms the request. Status changes are saved and visible to the patient."
+  },
+  {
+    "seconds": 98.0,
+    "title": "11 / REPLY TO FOLLOW-UP QUESTIONS",
+    "text": "Patient questions and practitioner replies stay together in the same saved conversation. Consultation records stay in Care history."
+  },
+  {
+    "seconds": 103.4,
+    "title": "12 / RETURN AS THE PATIENT",
+    "text": "Sign back in using the same patient email and password. Care history now contains the doctor\u2019s published consultation."
+  },
+  {
+    "seconds": 108.5,
+    "title": "12 / SEE PAST PRESCRIPTIONS & SUGGESTIONS",
+    "text": "Expand the prescription and follow-up sections. Search older records, sort by date, or print your care history."
+  },
+  {
+    "seconds": 113.5,
+    "title": "12 / YOUR FOLLOW-UP REPLY IS SAVED",
+    "text": "The patient can review the doctor\u2019s saved reply even after signing out and coming back."
+  },
+  {
+    "seconds": 117.5,
+    "title": "13 / ACCOUNT & RECORD EXPORT",
+    "text": "My account lets patients export records as JSON and change their password. There is no connected email or password-reset service."
+  },
+  {
+    "seconds": 122.6,
+    "title": "READY TO EXPLORE",
+    "text": "Open the HTML for a device-only demo. Run the included Python server for connected accounts. Public hosting and a clinical security/privacy review are required before real patient use."
+  }
+]

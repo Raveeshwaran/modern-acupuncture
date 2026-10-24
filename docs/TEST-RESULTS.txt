@@ -1,0 +1,43 @@
+ACUPUNCTURE CONNECTED CARE — DELIVERY VERIFICATION
+
+API TESTS
+........................                                                 [100%]
+24 passed in 7.06s
+
+BROWSER CHECKS (Chromium, desktop 1440x960 and mobile 390x844)
+01. PASS — Server patient login and assigned doctor dashboard
+02. PASS — 40 doctor directory and search
+03. PASS — Optional gender, opt-in reproductive section, accessible pain map, submission
+04. PASS — Uploaded image loads and 14 meridian search works
+05. PASS — Patient message saved
+06. PASS — Doctor reviews assigned patient and publishes append-only consultation
+07. PASS — Doctor receives question and saves reply
+08. PASS — Returning patient sees prescriptions and past consultation notes
+09. PASS — Returning patient sees saved doctor reply
+10. PASS — Patient record JSON export
+11. PASS — Standalone file patient registration and password hashing
+12. PASS — Standalone session and account persistence on reload
+13. PASS — 390px mobile layout, navigation and doctor directory
+
+Browser JavaScript errors: 0
+
+VIDEO
+Actual browser screen recording of standalone signup, automatic doctor assignment,
+optional gender and reproductive-health sections, pain-map submission, appointment
+request and doctor confirmation, care-record publication, saved question/reply,
+returning patient history, prescription view, image reference and account page.
+MP4, 1400 x 900, 135.2 seconds. Captioned; no audio. Not AI-generated.
+
+DEVELOPMENT ISSUES RESOLVED
+- Corrected a missing ID-card SQL binding in doctor-application submission.
+- Corrected pathname normalization in the standalone browser demo adapter.
+- Installed missing Chromium runtime libraries in the test environment.
+All API tests and all listed browser checks passed after these corrections.
+
+SCOPE AND LIMITS
+This is representative functional testing, not a guarantee of zero defects.
+No Safari/Firefox/device-matrix or independent security audit was completed.
+No externally hosted public backend was deployed. The HTML is a device-only demo;
+run/deploy the included Python application for shared accounts and records.
+Doctor approval requires manual external verification by a clinic administrator.
+Use fictional information only pending production security/privacy/clinical review.

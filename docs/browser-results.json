@@ -1,0 +1,19 @@
+{
+  "checks": [
+    "Server patient login and assigned doctor dashboard",
+    "40 doctor directory and search",
+    "Optional gender, opt-in reproductive section, accessible pain map, submission",
+    "Uploaded image loads and 14 meridian search works",
+    "Patient message saved",
+    "Doctor reviews assigned patient and publishes append-only consultation",
+    "Doctor receives question and saves reply",
+    "Returning patient sees prescriptions and past consultation notes",
+    "Returning patient sees saved doctor reply",
+    "Patient record JSON export",
+    "Standalone file patient registration and password hashing",
+    "Standalone session and account persistence on reload",
+    "390px mobile layout, navigation and doctor directory"
+  ],
+  "passed": 13,
+  "javascript_errors": []
+}
